@@ -1,5 +1,4 @@
-## Welcome to GitHub Games
-
+## Welcome to GitHub Games 2.0
 A project based learning activity for people who are getting started with Git and GitHub.
 
 You can play the game at: [https://gh-training-ba.github.io/github-games-LThane/](https://gh-training-ba.github.io/github-games-LThane/)
